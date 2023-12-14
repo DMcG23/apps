@@ -2,4 +2,4 @@
 
 ## JS + React Web Apps Comprised of the Following:
 
-Fully Responsive Modern UI/UX Website in React JS
+Three JS Web App 
